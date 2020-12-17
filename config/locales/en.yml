@@ -1,0 +1,11 @@
+en:
+  api_docs:
+    title: "Job tracking tool"
+    description: "Project management of employees' work and schedules"
+  mailers:
+    register_account:
+      subject: "Account verification"
+      title: "Verify your account"
+    reset_password:
+      subject: "Reset password"
+      title: "Reset your password"
